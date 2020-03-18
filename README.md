@@ -1,8 +1,11 @@
 # Stanford-BUS 150 W -Financial Modeling-
-Stanford Continuing Studies course BUS 150 "Financial Modeling and Business Decisions" by Iddo Hadar, Summer 2017. Topics covered include general techniques (structure, parameters, sensitivity analysis, scenarios, and reporting), as well as demand forecasting, financial analysis, and optimization. We also discuss personal financial planning, data mining, dealing with uncertainty, and more. The course keeps theory to a minimum, focusing on hands-on implementation and practice using a variety of cases.
+Stanford Continuing Studies course BUS 150 W "Financial Modeling and Business Decisions" by Iddo Hadar, Summer 2017. Topics covered include general techniques (structure, parameters, sensitivity analysis, scenarios, and reporting), as well as demand forecasting, financial analysis, and optimization. We also discuss personal financial planning, data mining, dealing with uncertainty, and more. The course keeps theory to a minimum, focusing on hands-on implementation and practice using a variety of cases.
 
 
 ### Final Assignment: »Proposal for an analytical Asset Allocation Model using MS Excel«
+by	Peter Hermann Schuld
+
+Date:		09/01/2017
 
 #### Customer/Decision Maker: ####
 Prepared for Members of the Senior Management of a US Pension Fund (Asset Allocation Comitee) to support the Strategic Asset 
